@@ -5,6 +5,7 @@ def counter(s, l):
   for thing in string: 
     if thing == letter :
       count = count + 1
+      
   print(count)
 counter ('anup', 'n')
 counter ('Electronics', 'p')
